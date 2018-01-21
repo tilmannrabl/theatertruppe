@@ -1,0 +1,152 @@
+body {
+position: relative;
+}
+
+#kopf {
+position: relative;
+padding-top: 0px;
+padding-bottom: 0px;
+margin: 0px;
+border:none;
+}
+
+#seite {
+position: relative;
+left: 200px;
+font-family:Verdana;
+}
+
+#haupt {
+position: relative;
+padding-top:30px;
+width: 600px;
+min-height: 900px;
+color: white;
+background-image:url(Bilder/Hintergrund_oben.jpg);
+background-repeat: no-repeat;
+
+}
+
+#hintergrund2 {
+ padding-bottom: 80px;
+ min-height: 900px;
+ position: relative;
+ background-image:url(Bilder/Hintergrund_unten.jpg);
+ background-repeat: no-repeat;
+ background-position: bottom;
+}
+
+
+#text {
+ position: relative;
+ background-color: black;
+ margin-left:104px;
+ width: 291px;
+ padding-left: 15px;
+ padding-right:10px;
+}
+
+
+
+.cr_foto:link {
+  font-size: small;
+  font-weight:bold; 
+  color:silver; 
+  text-decoration:none;
+}
+
+.cr_foto:visited {
+  font-size: small;
+  font-weight:bold; 
+  color:silver; 
+  text-decoration:none;
+}
+
+.cr_foto:focus {
+  font-size: small;
+  font-weight:bold; 
+  color:silver; 
+  text-decoration:none;
+}
+
+.cr_foto:hover {
+  font-size: small;
+  font-weight:bold; 
+  color:silver; 
+  text-decoration:none;
+}
+
+.cr_foto:active {
+  font-size: small;
+  font-weight:bold; 
+  color:silver; 
+  text-decoration:none;
+}
+
+h3 a:link {
+  text-decoration:none;
+  color:silver; 
+}
+
+h3 a:visited {
+  text-decoration:none;
+  color:silver; 
+}
+
+h3 a:focus {
+  text-decoration:none;
+  color:silver; 
+}
+
+h3 a:hover {
+  text-decoration:none;
+  color:silver; 
+}
+
+h3 a:active {
+  text-decoration:none;
+  color:silver; 
+}
+
+#menu {
+  position: fixed;
+  top: 250px;
+  float: left;
+  font-family:Verdana;
+  font-size:large;
+  
+  font-weight: bold;
+  color:silver;
+}
+
+.menu:link {
+  font-size: large;
+  font-weight: bold;
+  color:silver; 
+  text-decoration:none;
+}
+
+.menu:visited {
+  font-size: large;
+  font-weight: bold;
+  color:silver; 
+  text-decoration:none;
+}
+.menu:focus {
+  font-size: large; 
+  font-weight: bold;
+  color:silver; 
+  text-decoration:none;
+}
+.menu:hover {
+  font-size: large; 
+  font-weight: bold;
+  color:silver; 
+  text-decoration:none;
+}
+.menu:active {
+  font-size: large; 
+  font-weight: bold;
+  color:silver; 
+  text-decoration:none;
+}
